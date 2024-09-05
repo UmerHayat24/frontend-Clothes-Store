@@ -1,0 +1,21 @@
+
+.dress-preview__modal-content{
+    height:290px;
+}
+.preview-container{
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    height:280px;
+
+}
+
+.preview-container img{
+    box-shadow: 0 2px 5px black;
+    height: 100%;
+}
+
+.create_dress_main{
+    background-color: rgb(210, 237, 255);
+}

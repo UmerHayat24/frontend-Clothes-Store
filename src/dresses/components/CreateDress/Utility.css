@@ -1,0 +1,22 @@
+.util__container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 0px;
+    height: 100%;
+    background-color: white;
+    box-shadow: 0 3px 5px grey;
+}
+.util__item{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    transform: translate(-50%,-50%);
+
+    margin: auto 0;
+}
+.util__item li{
+    list-style: none;
+    margin-bottom: 2rem;
+
+}
